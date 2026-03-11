@@ -4,26 +4,26 @@ Generate a FC-list from the eMFace-Report to trigger Docu-Workflow.
 
 ## EMFace Extract
 
-Kleines Tool, das eine EMFace-Report-Textdatei einliest und die geforderten Informationen als HTML ausgibt.
+Small tool that reads an eMFace report text file and outputs the required information as HTML.
 
-## Voraussetzungen
-- Python 3.10+ (getestet mit 3.12)
+## Requirements
+- Python 3.10+ (tested with 3.12)
 
-## Nutzung
+## Usage
 
 ```powershell
 python .\emface_extract.py .\<<eMFace-Report.txt>>
 ```
 
-Optional mit eigener Ausgabedatei:
+Optional with a custom output file:
 
 ```powershell
 python .\emface_extract.py .\<<eMFace-Report.txt>> -o .\<<output.html>>
 ```
 
-Zusätzlich wird eine JSON-Datei mit gleichem Namen erzeugt (z.B. `<<output.json>>`).
+Additionally, a JSON file with the same base name is generated (e.g., `<<output.json>>`).
 
-Beispiel-Runner:
+Example runner:
 
 ```powershell
 python .\run_example.py
