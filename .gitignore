@@ -22,3 +22,7 @@ Thumbs.db
 MG1CS*
 *.json
 *.html
+
+# Local-only files
+__INFOS__.txt
+requirements.txt
