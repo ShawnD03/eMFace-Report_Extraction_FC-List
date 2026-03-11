@@ -1,0 +1,857 @@
+{
+  "general": {
+    "program_version": "v4.9.0",
+    "pver_version": "PVER : MG1CS039MC / 05B0;0",
+    "date": "02.02.2026",
+    "sum_config": "sk_16_21_14.xls"
+  },
+  "tk_info": [
+    {
+      "fc": "BGLWM",
+      "version": "1617.0.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BGLWM",
+      "version": "31.0.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BGLWM",
+      "version": "1617.1.0",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "BGRLP",
+      "version": "23.0.1",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BGRLP",
+      "version": "23.0.2",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BGRLP",
+      "version": "23.1.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BGRLP",
+      "version": "11.4.2",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BGRLP",
+      "version": "23.1.1",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "CILCN_Adap",
+      "version": "8.22.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "CILCN_Adap",
+      "version": "8.27.0",
+      "revision": "4",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "CILCN_Adap",
+      "version": "1617.0.0",
+      "revision": "4",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "CILCN_Adap",
+      "version": "8.25.2",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "CILCN_Adap",
+      "version": "1617.4.0",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "CoEng_CdaSftyAbort",
+      "version": "x.x.x",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "CoEng_CdaSftyAbort",
+      "version": "1617.0.0",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "ESNSAD",
+      "version": "3.3.0",
+      "revision": "3",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "ESNSWLGDIPFI",
+      "version": "1.6.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "EngStrt_FuEvapOil",
+      "version": "7.9.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "EngStrt_FuEvapOil",
+      "version": "7.5.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "HKRELSU",
+      "version": ";",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "HMBUM",
+      "version": "x.x.x",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "HMBUM",
+      "version": "1617.2.0",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "InjSyG_MixMngt",
+      "version": "3.2.0",
+      "revision": "3",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "InjSyG_MixMngt",
+      "version": "3.3.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "InjSyG_MixMngt",
+      "version": "4.0.0",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "LR",
+      "version": ";",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "LRS",
+      "version": "1.57.1",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "LRS",
+      "version": "1.55.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "LRS",
+      "version": "1617.0.2",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "TEB",
+      "version": ";",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "VlvLiftCtlD",
+      "version": "1617.0.1",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "VlvLiftCtlD",
+      "version": "1617.1.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "VlvLiftCtlD",
+      "version": "1617.2.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "VlvLiftCtlD",
+      "version": "1617.3.0",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "APP",
+      "version": ";",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "ThrVlv_Mon",
+      "version": "1.17.0",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "ThrVlv_Mon",
+      "version": "1.21.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "ThrVlv_Mon",
+      "version": "1.23.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "ThrVlv_Mon",
+      "version": "1.23.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "ThrVlv_Mon",
+      "version": "1.23.0",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "MoCADC_Co",
+      "version": "80.8.0",
+      "revision": "8",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "MoCADC_Co",
+      "version": "80.8.0",
+      "revision": "7",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "MoCGTM_Co",
+      "version": "1.16.0",
+      "revision": "18",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "MoCGTM_Co",
+      "version": "1.16.0",
+      "revision": "17",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "MoCHwLogicTest_Co",
+      "version": "1.4.0",
+      "revision": "8",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "MoCHwLogicTest_Co",
+      "version": "1.4.0",
+      "revision": "6",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "MoCIWDH_Co",
+      "version": "2.1.0",
+      "revision": "4",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "MoCIWDH_Co",
+      "version": "2.1.0",
+      "revision": "3",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "MoCMem_Co",
+      "version": "80.24.1",
+      "revision": "6",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "MoCMem_Co",
+      "version": "80.24.1",
+      "revision": "5",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "MoCPFC_Co",
+      "version": "14.4.0",
+      "revision": "9",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "MoCPFC_Co",
+      "version": "14.4.0",
+      "revision": "8",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "MoCSCC_Co",
+      "version": "1.24.0",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "MoCSCC_Co",
+      "version": "1.24.0",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.24.0",
+      "revision": "7",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.24.2",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.25.0",
+      "revision": "5",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.26.0",
+      "revision": "3",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.27.0",
+      "revision": "4",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.28.0",
+      "revision": "4",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.29.0",
+      "revision": "3",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.29.1",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.30.0",
+      "revision": "7",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.30.1",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.30.2",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.31.0",
+      "revision": "9",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.32.0",
+      "revision": "4",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.33.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.34.0",
+      "revision": "7",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.34.1",
+      "revision": "3",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.34.1",
+      "revision": "4",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.34.2",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.36.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.38.0",
+      "revision": "8",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.38.1",
+      "revision": "7",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.38.3",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.38.3",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.38.4",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.38.5",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.40.1",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.40.2",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.40.3",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.42.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "rba_Emm",
+      "version": "1.40.4",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "EMFACE_VERSION",
+      "version": "4.2.0;",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "EMFACE_VERSION",
+      "version": "4.3.0;",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "EMFACE_VERSION",
+      "version": "4.4.0;",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "MoConf_Check",
+      "version": "X.X.X",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BdyECU_Co",
+      "version": "17.5.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BdyECU_Co",
+      "version": "950.6.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BdyECU_Co",
+      "version": "950.7.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "CoPOM_StrtgDevCdn",
+      "version": "333.1.0",
+      "revision": "6",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "CoPOM_StrtgDevCdn",
+      "version": "333.3.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "CoPOM_StrtgDevCdn",
+      "version": "333.1.0",
+      "revision": "7",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "DrvrSeatSwt_VD",
+      "version": "333.1.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "HoodSwt_DD",
+      "version": "333.6.0",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "HoodSwt_DD",
+      "version": "333.6.0",
+      "revision": "2",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "HoodSwt_VD",
+      "version": "333.3.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "HoodSwt_VD",
+      "version": "333.3.0",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "SSEUI_SetData",
+      "version": "333.4.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "SSEUI_SetData",
+      "version": "333.9.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "SSEUI_SetData",
+      "version": "333.10.0",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "StbIntvECU_Co",
+      "version": "28.0.0",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "StbIntvECU_Co",
+      "version": "950.8.0",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "StrtCtl_SSE",
+      "version": "1.26.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "StrtCtl_SSE",
+      "version": "1.29.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "StrtCtl_SSE",
+      "version": "333.7.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "StrtCtl_SSE",
+      "version": "333.9.0",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "StrtCtl_StA",
+      "version": "333.8.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "StrtCtl_StA",
+      "version": "333.15.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "StrtCtl_StA",
+      "version": "333.17.0",
+      "revision": "6",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "ZWSEL",
+      "version": ";",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "LIGov_Governor",
+      "version": "1617.2.0",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "LIGov_Governor",
+      "version": "1617.3.0",
+      "revision": "",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "LIGov_Governor",
+      "version": "1617.3.0",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "PTDist_Dyn",
+      "version": "13.0.0",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "PTDist_Dyn",
+      "version": "13.2.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "PTDist_Dyn",
+      "version": "334.5.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "PTDist_Dyn",
+      "version": "1617.0.0",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "PtCoornDyn_TqDes",
+      "version": "135.9.0",
+      "revision": "3",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "PtCoornDyn_TqDes",
+      "version": "334.0.0",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "PtCoornDyn_TqDes",
+      "version": "1617.4.0",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "PthSet_TrqDist",
+      "version": "11.0.1",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "PthSet_TrqDist",
+      "version": "11.2.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "PthSet_TrqDist",
+      "version": "334.0.1",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "PthSet_TrqDist",
+      "version": "334.1.0",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "BdyECU_Bdy",
+      "version": "1616.18.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BdyECU_Bdy",
+      "version": "1616.20.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BdyECU_Bdy",
+      "version": "1616.21.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BdyECU_Bdy",
+      "version": "1616.23.0",
+      "revision": "1",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "BrkECU_Brk",
+      "version": "1616.16.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BrkECU_Brk",
+      "version": "1616.18.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BrkECU_Brk",
+      "version": "1616.19.0",
+      "revision": "0",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BrkECU_Brk",
+      "version": "1616.21.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "BrkECU_Brk",
+      "version": "1616.22.0",
+      "revision": "0",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "LLim_calcLim",
+      "version": "334.3.0",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "LLim_calcLim",
+      "version": "333.11.0",
+      "revision": "1",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "LLim_calcLim",
+      "version": "333.13.0",
+      "revision": "3",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "LLim_calcLim",
+      "version": "1617.2.1",
+      "revision": "2",
+      "source": "Element in PVER FC"
+    },
+    {
+      "fc": "VehV_VD",
+      "version": "1617.1.0",
+      "revision": "2",
+      "source": "Summenkonfiguration FC"
+    },
+    {
+      "fc": "VehV_VD",
+      "version": "1617.1.0",
+      "revision": "2",
+      "source": "Element in PVER FC"
+    }
+  ],
+  "Mail": "daniel.damm@de.bosch.com"
+}

@@ -1,0 +1,13 @@
+Tobias Peitzsch
+
+Am besten wäre eine Datei, die folgendes enthält:
+
+	class		(z.B. FC, damit könnte man es auch abändern zu BC usw.)
+	name		(z.B. BGLWM)
+	variant		(z.B. 1617.0.0)
+	revision	(z.B. 1)
+	source		(z.B. Summenkonfiguration FC)
+	
+	evtl. auch description
+
+--> Das Skript sollte in einem Git-Repo abliegen, um eine Versionsverwaltung zu haben.
