@@ -12,16 +12,16 @@ Kleines Tool, das eine EMFace-Report-Textdatei einliest und die geforderten Info
 ## Nutzung
 
 ```powershell
-python .\emface_extract.py .\MG1CS039MC_05B0_emface_report.txt
+python .\emface_extract.py .\<<eMFace-Report.txt>>
 ```
 
 Optional mit eigener Ausgabedatei:
 
 ```powershell
-python .\emface_extract.py .\MG1CS039MC_05B0_emface_report.txt -o .\output.html
+python .\emface_extract.py .\<<eMFace-Report.txt>> -o .\<<output.html>>
 ```
 
-Zusätzlich wird eine JSON-Datei mit gleichem Namen erzeugt (z.B. `output.json`).
+Zusätzlich wird eine JSON-Datei mit gleichem Namen erzeugt (z.B. `<<output.json>>`).
 
 Beispiel-Runner:
 
